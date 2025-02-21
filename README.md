@@ -10,7 +10,7 @@ Custom keymaps for the Corne V4 split keyboard. This keymap was optimized for BS
 
 ## Layouts & Layers
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hudson-Liu/Corne-Keymap/main/docs/Keyboard-Layout-White.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hudson-Liu/Corne-Keymap/main/docs/Keyboard-Layout-Light.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hudson-Liu/Corne-Keymap/main/docs/Keyboard-Layout-Dark.png">
   <img alt="Image of Layouts" src="https://raw.githubusercontent.com/Hudson-Liu/Corne-Keymap/main/docs/Keyboard-Layout-Dark.png">
 </picture>
