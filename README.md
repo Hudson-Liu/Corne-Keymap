@@ -1,2 +1,9 @@
-# Corne-Keymap
-Custom VIAL Keymaps for Corne V4.
+<h1 align="center">
+  <img src="https://github.com/Hudson-Liu/Dotfiles-Desktop/blob/main/docs/Keyboard-Highlight.png" width="60%">
+  <br>
+  VIAL Keymaps for Corne V4
+  <br>
+  <img src="https://img.shields.io/github/commit-activity/y/Hudson-Liu/Corne-Keymap?style=for-the-badge&labelColor=%234c566a&color=%235e81ac" alt="Commit Frequency">
+  <img src="https://img.shields.io/github/license/Hudson-Liu/Corne-Keymap?style=for-the-badge&labelColor=%234c566a&color=%235e81ac" alt="License">
+</h1>
+Custom keymaps for the Corne V4 split keyboard. This keymap was optimized with BSPWM and (neo)vim keybindings in mind. The general intent behind this was to create a well-rounded, default-like experience; users of BSPWM and Vim should feel fairly familiar with most of this layout's design choices.
