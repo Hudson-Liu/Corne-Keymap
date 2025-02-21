@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Hudson-Liu/Dotfiles-Desktop/blob/main/docs/Keyboard-Highlight.png" width="60%">
+  <img src="https://github.com/Hudson-Liu/Corne-Keymap/blob/main/docs/Keyboard-Highlight.png" width="60%">
   <br>
   VIAL Keymaps for Corne V4
   <br>
