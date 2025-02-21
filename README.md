@@ -9,7 +9,7 @@
 
 Custom keymaps for the [Corne V4](https://github.com/foostan/crkbd/tree/main/) split keyboard. This keymap is optimized for BSPWM and (neo)vim keybindings. The intent was to create a well-rounded, default-like experience; most key positions should feel natural to users of BSPWM and Vim, as the overarching fluidity—in terms of finger placement and hand movement—remains preserved.
 <br/><br/>
-The provided keymap file (`Layout.vil`) requires the Vial keyboard firmware. [Vial](https://get.vial.today/manual/) is the open-source alternative to VIA, being a QMK fork with additional features.
+The provided keymap file (`Layout.vil`) requires the Vial keyboard firmware. [Vial](https://get.vial.today/manual/) is an open-source alternative to VIA, being a QMK fork with additional features.
 
 ## Keymap
 <picture>
